@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "3b830727-df9c-488a-8239-bcdd49a33d7c",
+		"name": "Transmedia API Tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17671664"
+	},
+	"item": [
+		{
+			"name": "Add a new list",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Lists",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
